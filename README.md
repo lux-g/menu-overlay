@@ -1,0 +1,4 @@
+- when clicking on the open button a menu will open up and the main page background will have an overlay on it
+- when menu is open scroll is disabled
+- when clicking anywhere outside the menu the menu will close
+- see it here-->https://codepen.io/Nnx0/pen/qBapzoW
